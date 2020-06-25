@@ -5,7 +5,7 @@ output: html_document
   
     
 ***
-```{r setup}
+```{r}
 library(tidyverse)
 library(openfda)
 library(ggthemes)
